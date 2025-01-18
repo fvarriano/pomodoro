@@ -53,7 +53,7 @@ body {
 } 
 
 #reset {
-    background-color: #ef4444;
+    background-color: red;
 }
 
 #reset:hover {
@@ -62,10 +62,10 @@ body {
 }
 
 #mode-toggle {
-    background-color: #8b5cf6;
+    background-color: #7d69aa;
 }
 
 #mode-toggle:hover {
-    background-color: #7c3aed;
+    background-color: #08070b;
     box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
 }
